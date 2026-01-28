@@ -1,0 +1,11 @@
+node_modules/
+.env
+*.log
+tokens.txt
+users.txt
+post_templates.txt
+output/
+*.json
+!package.json
+dist/
+*.tsbuildinfo

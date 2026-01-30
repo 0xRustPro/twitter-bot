@@ -122,3 +122,5 @@ The project is fully written in TypeScript with:
 - Full type definitions
 - Source maps for debugging
 - Declaration files generated
+
+Developer: [@Manokil](https://t.me/Rust0x_726)
